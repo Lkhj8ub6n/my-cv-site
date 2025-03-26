@@ -1,0 +1,36 @@
+
+body {
+  background-color: #1b1c1d;
+  color: #d0ffd0;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #2e5033;
+  padding: 1em;
+  text-align: center;
+}
+header h1 {
+  color: #aaffaa;
+}
+nav a {
+  margin: 0 1em;
+  color: #d0ffd0;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  padding: 2em;
+}
+h2 {
+  color: #aaffaa;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  border-top: 1px solid #333;
+  color: #888;
+}
